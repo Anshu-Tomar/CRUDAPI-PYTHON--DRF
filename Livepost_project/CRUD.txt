@@ -1,0 +1,8 @@
+This is Crud api 
+here we are installed some library
+1. corsheader ---> pip install django-cors-headers
+2. app
+3. database --> mysql
+4. djangorestframework
+5.mysqlclient
+dummy for testing
